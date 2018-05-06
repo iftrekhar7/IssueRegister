@@ -1,0 +1,185 @@
+﻿@model Issue_Register.Models.Entity.Post
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details of issue</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt>
+            Posted Date
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateTime.Value.Date)
+        </dd>
+
+        <dt>
+            Comapny Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Company.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Employee.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.Name)
+        </dd>
+        <dt>
+            Branch Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Employee.Branch.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt>
+            Solved By
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VarrifiedBy)
+        </dd>
+
+    </dl>
+</div>
+
+<div class="panel-footer">
+    <button type="button" class="btn btn-default Comment" data-id="@Model.Id" value="Comment">
+        <span class="glyphicon glyphicon-comment" aria-hidden="true"></span> Comment
+    </button>
+</div>
+<div id="@string.Format("{0}_{1}","commentsBlock", @Model.Id)" style="border: 1px solid #f1eaea; background-color: #eaf2ff;">
+
+    <div class="AddComment" style="margin-left: 30%;  margin-bottom: 5px; margin-top: 8px;">
+        <input type="text" id="@string.Format("{0}_{1}", "comment", @Model.Id)" class="form-control" placeholder="Add a Comment ..." style="display: inline;" />
+        <button type="button" class="btn btn-default addComment" data-id="@Model.Id"><span class="glyphicon glyphicon-comment" aria-hidden="true"></span></button>
+    </div>
+</div>
+    @if (User.IsInRole("SuperAdmin") || User.IsInRole("Employee"))
+    {
+        <p>
+            @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+            @Html.ActionLink("Back to List", "Index")
+        </p>
+    }
+@section Scripts
+{
+
+    <script type="text/javascript">
+
+
+        $(document).ready(function () {
+
+
+            //Click Comment
+            $('.Comment').on('click', function () {
+
+                var id = $(this).attr("data-id");
+                var allCommentsArea = $('<div>').addClass('allComments_' + id);
+
+                //function that allow us to get all comments related to post id
+                $.ajax({
+
+                    type: 'GET',
+                    url: '@Url.Action("GetComments", "Posts")',
+                    data: { postId: id },
+                    success: function (response) {
+
+                        if ($('div').hasClass('allComments_' + id + ''))
+                        {
+                            $('div[class=allComments_' + id + ']').remove();
+                        }
+                        //console.log(response);
+
+
+                        allCommentsArea.html(response);
+                        allCommentsArea.prependTo('#commentsBlock_' + id);
+
+
+                    },
+                    error: function (response) {
+                        alert('Sorry: Comments cannot be loaded !');
+                    }
+
+
+                })
+
+            });
+
+            //Add New Comment
+            $('.addComment').on('click', function () {
+
+                var postId = $(this).attr('data-id');
+                var comment = $('#comment_' + postId).val();
+
+                $.ajax({
+
+                    type: 'POST',
+                    url: '@Url.Action("AddComment", "Posts")',
+                    data: { comment, postId },
+                    success: function (response) {
+
+                        $('div[class=allComments_' + postId + ']').remove();
+
+                        var allCommentsArea = $('<div>').addClass('allComments_' + postId);
+                        allCommentsArea.html(response);
+
+                        allCommentsArea.prependTo('#commentsBlock_' + postId);
+
+                    },
+                    error: function (response) {
+                        
+                        alert(response,'Sorry: Something Wrong');
+                    }
+
+                });
+
+            });
+
+            jQuery("time.timeago").timeago();
+
+        });
+
+    </script>
+
+
+}

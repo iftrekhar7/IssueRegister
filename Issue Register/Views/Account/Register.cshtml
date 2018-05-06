@@ -1,0 +1,17 @@
+﻿@model Issue_Register.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<br />
+<h4>@Html.ActionLink("Register as Employee", "Create", "Employees")</h4>
+
+<h4>@Html.ActionLink("Register as Vendor", "Create", "Vendors")</h4>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

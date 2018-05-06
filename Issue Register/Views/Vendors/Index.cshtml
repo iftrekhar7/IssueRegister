@@ -1,0 +1,274 @@
+﻿@model IEnumerable<Issue_Register.Models.Entity.Vendor>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Vendor List</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div class="box">
+    <div class="box-header">
+        <h3 class="box-title">Orders List</h3>
+    </div>
+    <!-- /.box-header -->
+    <div class="box-body no-padding">
+
+        <ul class="nav nav-tabs">
+            <li class="active"><a data-toggle="tab" href="#tab-1"><i class="fa fa-list"></i>Processing</a></li>
+            <li class=""><a data-toggle="tab" href="#tab-2"><i class="fa fa-check-square-o"></i> Complete</a></li>
+        </ul>
+        <div class="tab-content">
+            <div id="tab-1" class="tab-pane active">
+                <div class="table-responsive">
+                    <table class="table myfootable">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Name)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.VndrCode)
+                                </th>
+                                <th>
+                                   Company Name
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Mobile)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Email)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.IsConfirmed)
+                                </th>
+                                <th colspan="2">
+                                    Action
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.Where(x => x.IsConfirmed == false))
+                            {
+
+                                <tr>
+                                    <td>@item.Name</td>
+                                    <td>@item.VndrCode</td>
+                                    <td>@item.Company.Name</td>
+                                    <td>@item.Mobile</td>
+                                    <td>@item.Email</td>
+                                    <td>@item.IsConfirmed</td>
+                                    <td>
+                                        <button type="button" id="Id" class="btn btn-sm btn-info btn_update" onclick="Abc(@item.Id);">
+                                            Confirm Vendor
+                                        </button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div id="tab-2" class="tab-pane">
+                <div class="table-responsive ">
+                    <table class="table myfootable">
+                        <thead>
+                            <tr>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Name)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.VndrCode)
+                                </th>
+                                <th>
+                                    Company Name
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Mobile)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.Email)
+                                </th>
+                                <th>
+                                    @Html.DisplayNameFor(model => model.IsConfirmed)
+                                </th>
+                                <th colspan="2">
+                                    Action
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.Where(x => x.IsConfirmed == true))
+                            {
+                                <tr>
+                                    <td>@item.Name</td>
+                                    <td>@item.VndrCode</td>
+                                    <td>@item.Company.Name</td>
+                                    <td>@item.Mobile</td>
+                                    <td>@item.Email</td>
+                                    <td>@item.IsConfirmed</td>
+                                    <td>
+                                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                                        @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                                        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="modal right fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+            <div class="modal-header text-center bg-primary">
+                <h4 class="modal-title">Confirm Vendor</h4>
+            </div>
+            <div class="modal-body">
+                <form id="myForm" method="post">
+                    <div class="form-horizontal">
+                        <div style="display: none;"><label for="Id" id="Id">  </label></div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary pull-left" data-dismiss="modal">Close</button>
+                <input type="submit" value="Update" class="btn btn-success save">
+            </div>
+
+        </div>
+    </div>
+</div>
+<style>
+    .modal.left .modal-dialog,
+    .modal.right .modal-dialog {
+        position: fixed;
+        margin: auto;
+        width: 300px;
+        -webkit-transform: translate3d(0%, 0, 0);
+        -ms-transform: translate3d(0%, 0, 0);
+        -o-transform: translate3d(0%, 0, 0);
+        transform: translate3d(0%, 0, 0);
+    }
+
+    .modal.left .modal-content,
+    .modal.right .modal-content {
+        overflow-y: auto;
+    }
+
+    .modal.left .modal-body,
+    .modal.right .modal-body {
+        /*padding: 15px 15px 80px;*/
+    }
+
+    /*Left*/
+    .modal.left.fade .modal-dialog {
+        left: -300px;
+        -webkit-transition: opacity 0.3s linear, left 0.3s ease-out;
+        -moz-transition: opacity 0.3s linear, left 0.3s ease-out;
+        -o-transition: opacity 0.3s linear, left 0.3s ease-out;
+        transition: opacity 0.3s linear, left 0.3s ease-out;
+    }
+
+    .modal.left.fade.in .modal-dialog {
+        left: 0;
+    }
+
+    /*Right*/
+    .modal.right.fade .modal-dialog {
+        right: -300px;
+        -webkit-transition: opacity 0.3s linear, right 0.3s ease-out;
+        -moz-transition: opacity 0.3s linear, right 0.3s ease-out;
+        -o-transition: opacity 0.3s linear, right 0.3s ease-out;
+        transition: opacity 0.3s linear, right 0.3s ease-out;
+    }
+
+    .modal.right.fade.in .modal-dialog {
+        right: 0;
+    }
+
+    /* ----- MODAL STYLE ----- */
+    .modal-content {
+        border-radius: 0;
+        border: none;
+    }
+
+    .modal-header {
+        border-bottom-color: #EEEEEE;
+        background-color: #FAFAFA;
+    }
+
+    .btnupdate {
+    }
+</style>
+
+
+@section Scripts {
+
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+
+        $(document).ready(function() {
+
+        });
+
+        function Abc(id) {
+            var myModal = $('#myModal');
+            myModal.modal({
+                backdrop: 'static',
+                keyboard: false
+            });
+            var vendorId = id;
+            console.log(vendorId);
+            $('#myModal label[for=Id]').html(vendorId);
+            myModal.modal({ show: true });
+
+            return false;
+
+        }
+
+            $('.save').click(function (e) {
+                e.preventDefault();
+                var Id = $.trim($("#myModal #Id").html());
+
+                console.log(Id);
+                $('#myModal').modal('hide');
+                $.ajax({
+                    url: "/Vendors/ApproveVendor",
+                    type: "post",
+                    data: { Id: Id, Status: true },
+                    dataType: "json",
+                    success: function (flag) {
+                        if (flag == true) {
+                            alert("Successfully updated !");
+                            function ManualRefresh(){
+                                window.location.reload();
+                            }
+                            ManualRefresh();
+                        }
+                    },
+                    error: function (xhr) {
+                        console.log(xhr);
+                    }
+                });
+
+            });
+
+    </script>
+
+
+}
+
+

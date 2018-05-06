@@ -1,0 +1,392 @@
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\ApplicationInsights.config
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\csc.exe
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\vbc.exe
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\VBCSCompiler.exe
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Issue Register.dll.config
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Issue Register.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Issue Register.pdb
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Antlr3.Runtime.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\EntityFramework.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\EntityFramework.SqlServer.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.Web.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.ApplicationInsights.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Google.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Newtonsoft.Json.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Owin.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.Helpers.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.Mvc.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.Optimization.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.Razor.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.WebPages.Deployment.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.WebPages.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.WebPages.Razor.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\WebGrease.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.Web.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.ApplicationInsights.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.Helpers.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.Mvc.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.Optimization.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.Razor.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.WebPages.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.WebPages.Deployment.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\System.Web.WebPages.Razor.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Antlr3.Runtime.pdb
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Newtonsoft.Json.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\EntityFramework.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\EntityFramework.SqlServer.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Google.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue Register.csprojResolveAssemblyReference.cache
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue Register.dll
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue Register.pdb
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.initial.resources
+c:\users\ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue Register.csproj.GenerateResource.Cache
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddBrnchCmpnyDept.resources
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddEmployee.resources
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddEmployee1.resources
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddVendor.resources
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddPost.resources
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddComment.resources
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddComment1.resources
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.UpdatePost.resources
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.UpdatePost1.resources
+C:\Users\Ifti\documents\visual studio 2015\Projects\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddPrpInEmpVend.resources
+D:\Test\Issue Register\Issue Register\Issue Register\bin\ApplicationInsights.config
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\csc.exe
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\System.Collections.Immutable.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\vbc.exe
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\VBCSCompiler.exe
+D:\Test\Issue Register\Issue Register\Issue Register\bin\roslyn\VBCSCompiler.exe.config
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Issue Register.dll.config
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Issue Register.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Issue Register.pdb
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Antlr3.Runtime.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\EntityFramework.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\EntityFramework.SqlServer.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.DependencyCollector.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.Web.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.WindowsServer.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.ApplicationInsights.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Google.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Web.Infrastructure.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Newtonsoft.Json.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Owin.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.Helpers.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.Mvc.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.Optimization.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.Razor.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.WebPages.Deployment.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.WebPages.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.WebPages.Razor.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\WebGrease.dll
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.DependencyCollector.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.Web.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AI.WindowsServer.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.ApplicationInsights.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.Helpers.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.Mvc.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.Optimization.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.Razor.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.WebPages.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.WebPages.Deployment.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\System.Web.WebPages.Razor.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Antlr3.Runtime.pdb
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Newtonsoft.Json.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\EntityFramework.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\EntityFramework.SqlServer.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Google.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Test\Issue Register\Issue Register\Issue Register\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue Register.csprojResolveAssemblyReference.cache
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.initial.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddBrnchCmpnyDept.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddEmployee.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddEmployee1.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddVendor.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddPost.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddComment.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddComment1.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.UpdatePost.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.UpdatePost1.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddPrpInEmpVend.resources
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue Register.csproj.GenerateResource.Cache
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue Register.dll
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue Register.pdb
+D:\Test\Issue Register\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.tt.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\ApplicationInsights.config
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\csc.exe
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\System.Collections.Immutable.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\System.Reflection.Metadata.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\vbc.exe
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\VBCSCompiler.exe
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\roslyn\VBCSCompiler.exe.config
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Issue Register.dll.config
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Issue Register.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Issue Register.pdb
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Antlr3.Runtime.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\EntityFramework.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\EntityFramework.SqlServer.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.DependencyCollector.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.Web.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.WindowsServer.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.ApplicationInsights.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Google.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Web.Infrastructure.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Newtonsoft.Json.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Owin.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.Helpers.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.Mvc.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.Optimization.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.Razor.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.WebPages.Deployment.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.WebPages.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.WebPages.Razor.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\WebGrease.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.DependencyCollector.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.Web.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AI.WindowsServer.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.ApplicationInsights.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.Helpers.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.Mvc.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.Optimization.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.Razor.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.WebPages.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.WebPages.Deployment.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\System.Web.WebPages.Razor.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Antlr3.Runtime.pdb
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Newtonsoft.Json.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\EntityFramework.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\EntityFramework.SqlServer.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Google.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue Register.csprojResolveAssemblyReference.cache
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.initial.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddBrnchCmpnyDept.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddEmployee.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddEmployee1.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddVendor.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddPost.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddComment.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddComment1.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.UpdatePost.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.UpdatePost1.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddPrpInEmpVend.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.tt.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue Register.csproj.GenerateResource.Cache
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue Register.dll
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue Register.pdb
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.addRequired.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\ApplicationInsights.config
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\csc.exe
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\vbc.exe
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Issue Register.dll.config
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Issue Register.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Issue Register.pdb
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Antlr3.Runtime.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\EntityFramework.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\EntityFramework.SqlServer.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.Web.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Newtonsoft.Json.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Owin.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.Helpers.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.Mvc.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.Optimization.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.Razor.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.WebPages.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\WebGrease.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.Web.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.Helpers.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.Mvc.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.Optimization.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.Razor.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.WebPages.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Antlr3.Runtime.pdb
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Newtonsoft.Json.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\EntityFramework.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\EntityFramework.SqlServer.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue Register.csprojResolveAssemblyReference.cache
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.initial.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddBrnchCmpnyDept.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddEmployee.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddEmployee1.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddVendor.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddPost.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddComment.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddComment1.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.UpdatePost.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.UpdatePost1.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddPrpInEmpVend.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.tt.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.addRequired.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue Register.csproj.GenerateResource.Cache
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue Register.dll
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue Register.pdb
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.removePassword.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddVarrifiedByInPost.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.ChangeComment.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddSubComment.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddUserName.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.removePassword.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddVarrifiedByInPost.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.ChangeComment.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddSubComment.resources
+E:\Education\MIT-IIT\Final Project\Final Version\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.AddUserName.resources
+C:\Users\Ifti\Desktop\Issue Register\Issue Register\obj\Debug\Issue_Register.Migrations.changePost.resources

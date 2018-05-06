@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@if (User.IsInRole("SuperAdmin") || User.IsInRole("Employee"))
+{
+    @:<div class="row row-md">
+        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+            <div class="box box-block bg-white tile tile-1 m-b-2">
+                <div class="t-icon right"><span class="bg-danger"></span><i class="ti-shopping-cart-full"></i></div>
+                <div class="t-content">
+                    <h6 class="text-uppercase m-b-1">Employees</h6>
+                    <h1 class="m-b-1"> @ViewBag.totalEmplyees</h1>
+                    <span class="tag tag-danger m-r-0-5"></span>
+                    <span class="text-muted font-90">Total Eployees</span>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+            <div class="box box-block bg-white tile tile-1 m-b-2">
+                <div class="t-icon right"><span class="bg-success"></span><i class="ti-bar-chart"></i></div>
+                <div class="t-content">
+                    <h6 class="text-uppercase m-b-1">Vendors</h6>
+                    <h1 class="m-b-1">@ViewBag.totalVendors</h1>
+                    <span class="tag tag-primary m-r-0-5"></span>
+                    <span class="text-muted font-90">Total Vendors</span>
+                </div>
+            </div>
+        </div>
+}
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="box box-block bg-white tile tile-1 m-b-2">
+        <div class="t-icon right"><span class="bg-primary"></span><i class="ti-package"></i></div>
+        <div class="t-content">
+            <h6 class="text-uppercase m-b-1">Issued</h6>
+            <h1 class="m-b-1">@ViewBag.totalPosts</h1>
+            <span class="tag tag-primary m-r-0-5"></span>
+            <span class="text-muted font-90">Total Issued posted</span>
+        </div>
+    </div>
+</div>
+</div>
